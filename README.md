@@ -2,7 +2,7 @@
 
 Reference implementation and computational experiments accompanying:
 
-**William Boyle, "A Target-Feasibility Branch-and-Prune Algorithm for Nonconvex Constrained Optimization" (2026).**
+Preprint: William Boyle, A Target-Feasibility Branch-and-Prune Algorithm for Nonconvex Constrained Optimization (2026). DOI: 10.5281/zenodo.21886107
 
 This repository contains the numerical solver and the 30-problem computational demonstration suite reported in the paper.
 
